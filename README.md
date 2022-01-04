@@ -21,3 +21,5 @@ https://github.com/IBM/T3QA
 https://github.com/facebookresearch/TaBERT
 
 https://github.com/IBM/row-column-intersection
+
+https://gpt3demo.com/apps/veezoo
