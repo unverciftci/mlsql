@@ -25,3 +25,6 @@ https://github.com/IBM/row-column-intersection
 https://gpt3demo.com/apps/veezoo
 
 https://github.com/nl4dv/nl4dv
+
+https://github.com/wenhuchen/LogicNLG
+
