@@ -29,3 +29,5 @@ https://github.com/nl4dv/nl4dv
 https://github.com/wenhuchen/LogicNLG
 
 https://arxiv.org/pdf/2201.01209.pdf
+
+https://github.com/Thanksyy/ncNet
