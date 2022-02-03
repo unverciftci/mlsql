@@ -33,3 +33,5 @@ https://arxiv.org/pdf/2201.01209.pdf
 https://github.com/Thanksyy/ncNet
 
 https://github.com/jiangqicd/DT2VIS
+
+https://www.machinecurve.com/index.php/2021/03/10/easy-table-parsing-with-tapas-machine-learning-and-huggingface-transformers/
