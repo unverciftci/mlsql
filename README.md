@@ -37,3 +37,6 @@ https://github.com/jiangqicd/DT2VIS
 https://www.machinecurve.com/index.php/2021/03/10/easy-table-parsing-with-tapas-machine-learning-and-huggingface-transformers/
 
 https://github.com/christianversloot/machine-learning-articles/blob/main/easy-table-parsing-with-tapas-machine-learning-and-huggingface-transformers.md
+
+https://huggingface.co/blog/tapex
+
